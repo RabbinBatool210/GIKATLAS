@@ -1,0 +1,44 @@
+from_node,to_node,distance_m
+Main Gate,Admin Block,81.70
+Main Gate,AHA Auditorium,147.00
+Main Gate,Tennis Court,243.63
+Main Gate,Sports Ground,244.00
+Main Gate,FCSE/FEE,200.99
+Main Gate,FME,221.04
+Main Gate,FES,124.47
+Main Gate,FMCE,287.88
+Main Gate,Academic Block,302.88
+Main Gate,Clock Tower,299.08
+Main Gate,Cafe,281.70
+Main Gate,Guest House,343.25
+Main Gate,Sports Complex,580.65
+Main Gate,Tuc Area,411.37
+AHA Auditorium,FME,40.76
+AHA Auditorium,FCSE/FEE,43.58
+AHA Auditorium,FMCE,77.88
+AHA Auditorium,FES,114.59
+AHA Auditorium,Academic Block,98.54
+Hostel 10,Hostel 2,30.45
+Hostel 9,Hostel 1,15.91
+Hostel 3,Hostel 5,25.00
+Hostel 4,Hostel 6,25.00
+Hostel 1,Hostel 3,203.64
+Hostel 5,Hostel 8,84.18
+Hostel 1,Hostel 8,208.32
+Hostel 8,Central Mess,7.43
+Central Mess,Academic Block,229.26
+AHA Auditorium,Library,191.58
+Hostel 9,Sports Ground,63.51
+FES,Sports Ground,36.27
+Library,Brabers Building,117.51
+Brabers Building,Incubation Center,62.45
+Incubation Center,Old GH,53.26
+Incubation Center,New GH,53.26
+New GH,Tuc Area,212.29
+Old GH,Tuc Area,147.50
+Old GH,Medical Center,55.20
+Old GH,C-types Houses,143.76
+C-types Houses,Bachelor Hostel,236.61
+C-types Houses,D-types Flats,299.62
+Bachelor Hostel,D-types Flats,115.20
+C-types Houses,Tuc Area,226.67
